@@ -3,8 +3,8 @@
 // @name            Island Media Controls - Fork (Apple Music, multi-monitor)
 // @description     Dynamic island-like media controls for the Windows 11 taskbar, with Apple Music shuffle/repeat/seek, source switching and second-monitor support.
 // @version         1.0.0
-// @author          usho (original), fork changes by the fork author
-// @github          https://github.com/usho-lear
+// @author          usho (original), fork changes by the NikNation
+// @github          https://github.com/NIkNatIon
 // @license         MIT
 // @include         explorer.exe
 // @include         AppleMusic.exe
